@@ -112,8 +112,12 @@ body.browser-source.clock{
 
 		#lower-third {
 			padding: .5rem;
-			background-color: rgba(255, 255, 255, 0.5);
+			background-color: rgba(255, 0, 242, 0.226);
 			border-radius: 1rem;
+		}
+
+		#lower-third .left-block img {
+			border-radius: 50%;
 		}
 		
 		
@@ -144,14 +148,14 @@ body.browser-source.clock{
 	
 		body.browser-source.lower-thirds #lower-third #name {
 		font: bold 7vw 'Roboto Condensed', sans-serif;
-		color: rgb(0, 0, 0);
+		color: rgb(255, 255, 255);
 		left: 0;
 		top: 0;
 		}
 		
 		body.browser-source.lower-thirds #lower-third #function {
 		font: bold 3.5vw 'Roboto Condensed', sans-serif;
-		color: rgb(0, 0, 0);
+		color: rgb(255, 255, 255);
 		line-height:1;
 		top: 2.5em;
 		}
