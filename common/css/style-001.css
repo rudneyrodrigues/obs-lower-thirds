@@ -112,7 +112,7 @@ body.browser-source.clock{
 
 		#lower-third {
 			padding: .5rem;
-			background-color: rgba(0, 4, 255, 0.226);
+			background-color: rgba(0, 0, 0, 0.226);
 			border-radius: 1rem;
 		}
 
